@@ -2,6 +2,13 @@
 
 An Android app that allows users to fetch bank details using the IFSC code. This app uses the [Razorpay IFSC API](https://ifsc.razorpay.com/) to retrieve real-time data and display information such as bank name, branch, address, contact number, and available services (NEFT, RTGS, IMPS).
 
+# IFSC App
+
+You can download the APK for this project from the link below:
+
+[Download APK](https://drive.google.com/file/d/1E8vRtqJ98cpGkn3qltfrW6C3tEMb-K8h/view?usp=sharing)
+
+
 ---
 
 ## 📱 Screenshots
