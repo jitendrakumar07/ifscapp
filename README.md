@@ -8,10 +8,7 @@ An Android app that allows users to fetch bank details using the IFSC code. This
 
 | Input IFSC Code | Bank Details View |
 |-----------------|-------------------|
-| ![Input](![image](https://github.com/user-attachments/assets/a960df56-e3ba-4ced-ba18-afe72995f2c4)
-) | ![Result](![image](![image](https://github.com/user-attachments/assets/585fd351-d647-449d-830d-69021527b035)
-)
-) |
+| <img src="https://github.com/user-attachments/assets/a960df56-e3ba-4ced-ba18-afe72995f2c4" width="300"/> | <img src="https://github.com/user-attachments/assets/585fd351-d647-449d-830d-69021527b035" width="300"/> |
 
 ---
 
